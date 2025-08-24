@@ -10,7 +10,8 @@ average_phq: A média de sintomas de depressão (provavelmente do questionário 
 average_scs: A média da pontuação de conexão social.
 average_as: A média da pontuação de estresse de aculturação.
 
-## Ferramentas: notebook, SQL.
+## Ferramentas:
+Notebook, SQL.
 
 ## Principais descobertas: 
 1) Estresse de Aculturação Aumenta com o Tempo: Há uma tendência relativamente clara de que o estresse associado à adaptação a uma nova cultura (average_as) aumenta com o tempo de estadia, especialmente nos primeiros 4 anos. A média sobe de 72.8 no primeiro ano para 87.71 no quarto ano.
