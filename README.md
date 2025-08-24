@@ -1,4 +1,4 @@
-# Project-Data-Camp-Analyzing-Students-Mental-Health
+# Project-Analyzing-Students-Mental-Health
 
 ## Sobre o Projeto: 
 Uma universidade internacional japonesa pesquisou seus alunos em 2018 e publicou um estudo no ano seguinte que foi aprovado por vários conselhos éticos e regulatórios. O estudo descobriu que os estudantes internacionais têm um risco maior de dificuldades de saúde mental do que a população em geral, e que a conexão social (pertencimento a um grupo social) e o estresse aculturativo (estresse associado à adesão a uma nova cultura) são preditivos da depressão.
